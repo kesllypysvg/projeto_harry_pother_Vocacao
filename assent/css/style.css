@@ -41,6 +41,7 @@ body {
     }
 }
 
+
 .slide-content {
     max-width: 900px;
     margin: 0 auto;
@@ -168,3 +169,7 @@ body {
     list-style-type: '⚡️ ';
     line-height: 1.8;
 }
+
+
+
+/* Tem Marcação de Mobile First */
