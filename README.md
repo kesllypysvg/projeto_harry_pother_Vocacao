@@ -7,6 +7,10 @@ https://www.canva.com/design/DAGsgVf7TJw/LYPuOxcVHro7DNTTh6dUAw/edit?utm_content
 
 
 
+*PAGINA HOME*
+texto da página inicial:
+Sejam bem-vindos, bruxos e bruxas, à nobre casa Sonserina!
+
 *PÁGINA SONSERINA*
 - Texto sobre a Sonserina:
 Fundada por Salazar Sonserina, a casa valoriza ambição, astúcia e determinação. Seu símbolo é a serpente, suas cores são verde e prata, e sua sala comunal fica nas masmorras, sob o Lago Negro.
