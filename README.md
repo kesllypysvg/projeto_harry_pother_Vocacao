@@ -8,7 +8,7 @@ https://www.canva.com/design/DAGsgVf7TJw/LYPuOxcVHro7DNTTh6dUAw/edit?utm_content
 
 
 *PAGINA HOME*
-texto da página inicial:
+- Texto da página inicial:
 Sejam bem-vindos, bruxos e bruxas, à nobre casa Sonserina!
 
 *PÁGINA SONSERINA*
